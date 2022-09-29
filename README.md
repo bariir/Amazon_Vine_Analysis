@@ -14,6 +14,7 @@ Jennifer’s goal is to analyze all the reviews written by members of the paid A
 
 -	How many Vine reviews and non-Vine reviews were there? <br>
 With the large dataset I’ve used, there are 6,878 Vine reviews and 6,924,287 non-Vine reviews<br>
+
 ![Count of Vine Reviews DataFrame](/Resources/Count_Vine_Reviews_df.png)<br>
 
 ![Count of Vine Reviews Database Query](/Resources/Count_Vine_Reviews_db.png)<br>
