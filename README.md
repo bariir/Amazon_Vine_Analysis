@@ -30,7 +30,7 @@ With the large dataset that I used, there are 543 Vine reviews with 5 star ratin
 
 ![Count of Vine Reviews with 5 Star DataFrame](/Resources/Count_Vine_Reviews_With_5_Stars_df.png)<br>
 
-![Count of Non Vine Reviews with 5 Star DataFrame](/Resources/Count_Non_Vine_Reviews_With_5_Stars_df)<br>
+![Count of Non Vine Reviews with 5 Star DataFrame](/Resources/Count_Non_Vine_Reviews_With_5_Stars_df.png)<br>
 
 -	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? <br>
 Percentage of paid Vine reviews with 5 stars were 0.4438305709023941 and percentage of non_Vine reviews with 5 stars were 0.4627093251066018<br>
