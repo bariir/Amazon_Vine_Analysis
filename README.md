@@ -1,4 +1,5 @@
 
+
 # Amazon_Vine_Analysis
 
 Purpose:
@@ -29,14 +30,14 @@ With the large dataset that I used, there are 543 Vine reviews with 5 star ratin
 
 ![Count of Vine Reviews with 5 Star DataFrame](/Resources/Count_Vine_Reviews_With_5_Stars_df.png)<br>
 
-![Count of Non Vine Reviews with 5 Star DataFrame](/Resources/Count_Vine_Reviews_With_5_Stars_df.png)<br>
+![Count of Non Vine Reviews with 5 Star DataFrame](/Resources/Count_Non_Vine_Reviews_With_5_Stars_df)<br>
 
 -	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? <br>
 Percentage of paid Vine reviews with 5 stars were 0.4438305709023941 and percentage of non_Vine reviews with 5 stars were 0.4627093251066018<br>
 
 ![Percentage of Vine Reviews with 5 Star DataFrame](/Resources/Percentage_Vine_Reviews_With_5_Stars_df.png)<br>
 
-![Count of Non Vine Reviews with 5 Star DataFrame](/Resources/Percentage_Non_Vine_Reviews_With_5_Stars_db.png)<br>
+![Percentage of Non Vine Reviews with 5 Star DataFrame](/Resources/Percentage_Non_Vine_Reviews_With_5_Stars_db.png)<br>
 
 
 
@@ -55,4 +56,21 @@ The analysis done by Jennifer and her colleague did not find many positive bias 
 
 
 ## Links to images
+
+Count of Vine Reviews DataFrame[Count_Vine_Reviews_df.png](https://github.com/bariir/Amazon_Vine_Analysis/tree/main/Resources/Count_Vine_Reviews_df.png?raw=true)<br>
+
+
+Count of Non Vine Reviews DataFrame[Count_Non_Vine_Reviews_df.png](https://github.com/bariir/Amazon_Vine_Analysis/tree/main/Resources/Count_Non_Vine_Reviews_df.png?raw=true)<br>
+
+
+Count of Vine Reviews with 5 Star DataFrame[Count_Vine_Reviews_With_5_Stars_df.png](https://github.com/bariir/Amazon_Vine_Analysis/tree/main/Resources/Count_Vine_Reviews_With_5_Stars_df.png?raw=true)<br>
+
+
+Count of Non Vine Reviews with 5 Star DataFrame[Count_Non_Vine_Reviews_With_5_Stars_df](https://github.com/bariir/Amazon_Vine_Analysis/tree/main/Resources/Count_Non_Vine_Reviews_With_5_Stars_df.png?raw=true)<br>
+
+
+Percentage of Vine Reviews with 5 Star DataFrame[Percentage_Vine_Reviews_With_5_Stars_df.png](https://github.com/bariir/Amazon_Vine_Analysis/tree/main/Resources/Percentage_Vine_Reviews_With_5_Stars_df.png?raw=true)<br>
+
+
+Percentage of Non Vine Reviews with 5 Star DataFrame[Percentage_Non_Vine_Reviews_With_5_Stars_db.png](https://github.com/bariir/Amazon_Vine_Analysis/tree/main/Resources/Percentage_Non_Vine_Reviews_With_5_Stars_db.png?raw=true)<br>
 
